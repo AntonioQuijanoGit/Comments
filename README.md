@@ -1,0 +1,1 @@
+Este proyecto es una aplicación web que permite a los usuarios generar comentarios y acumular likes en ellos. La interfaz es intuitiva y permite una fácil interacción, haciendo que el proceso de compartir y votar por comentarios sea fluido y agradable.
